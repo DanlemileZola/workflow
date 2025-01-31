@@ -25,7 +25,7 @@ Note that it is not necessary for the local folder to be named according to the 
 
 ### Push
 
-Basics manipulation include to pick which files we want to incorpore in the push Therefore : 
+Basics manipulation include to pick which files we want to incorpore in the push. Therefore : 
 ```bash
 git add . 
 git commit -m "Message"

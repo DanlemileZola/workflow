@@ -36,7 +36,7 @@
 [^4]: Explanations for this walk-trough are too complicate for a footnote. See below to understand git workflow. 
 
 
-![[Screencast from 2024-10-10 16-42-30.webm]]
+![Screencast from 2024-10-10 16-42-30](Screencast%20from%202024-10-10%2016-42-30.webm)
 
 
 
