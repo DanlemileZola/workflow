@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/
+.trash/
+*.sync-conflict-*
+
+# OS/Editor files : this part is for windows/macOS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Large files (optional) : if too much image edit
+#*.png
+#*.pdf
