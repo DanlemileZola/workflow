@@ -18,6 +18,7 @@ And that would dothe trick.
 
 ### Script
 
+discord-launcher.sh :
 ```bash
 #!/bin/bash
 
