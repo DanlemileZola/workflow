@@ -1,3 +1,4 @@
+Need to be to implement properply.
 ### 1. Initialization (_solo_)[](https://github.com/becodeorg/BXL-kamkar-03/tree/main/content/00.Other/01.Cooperative_Git#1-initialization (solo))
 
 
