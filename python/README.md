@@ -41,7 +41,7 @@ pipx : For installing and managing Python-based **command-line tools** globall
 pipx install jupyter
 ```
  *Then we need to register the venv as a Jupyter kernel:*
-```
+```bash
 source path/to/venv/bin/activate
 pip install ipykernel
 python -m ipykernel install --user --name=my_venv_kernel --display-name                                                      "Python (my_venv)"

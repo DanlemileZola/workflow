@@ -147,7 +147,7 @@ In 'git push -u origin development', the -u stand for upstream. Its sets the def
 - After using `git push -u`, future `git push` and `git pull` commands can be simplified. Instead of specifying the remote (`origin`) and branch each time, Git knows where to push or pull changes from by default.
 
 git checkout -t origin/development ????
-   Now you will only have the `development` branch fetched and checked out locally, without fetching the other branches from contributors. Let me know if you need any more clarification!
+   Now you will only have the `development` branch fetched and checked out locally, without fetching the other branches from contributors. 
 
 `fetch`VS `pull` : 
      `fetch`download changes (commits, branches, tags) from the remote repository they **do not integrate them** into your working branch (on local machine). So it updates the local copy of the remote branches (like origin/main).
